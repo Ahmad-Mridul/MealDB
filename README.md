@@ -1,8 +1,14 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is project is a test react router project where I tried to use:
+  1. createBrowserRouter
+  2. RouterProvider
+  3. Nested Route
+  4. Outlet
+  5. params, useParams()
+  6. loader, useLoaderData()
+  7. useNavigate()
+  8. useNavigation()
+  9. useRouteError()
+  10. errorElement
+  11. TailwindCSS
+  12. DaisyUI
+the output of the project is hosted in here: https://mealdb-la.surge.sh/  
