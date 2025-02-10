@@ -11,4 +11,6 @@ This is project is a test react router project where I tried to use:
   10. errorElement
   11. TailwindCSS
   12. DaisyUI
+
+      
 the output of the project is hosted in here: https://mealdb-la.surge.sh/  
